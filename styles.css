@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -5,7 +6,7 @@
 }
 
 body{ 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Anton;
     background-color: rgb(238, 168, 220);
     display: flex;
     justify-content: center;
