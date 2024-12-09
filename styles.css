@@ -6,7 +6,7 @@
 
 body{ 
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(24, 120, 204);
+    background-color: rgb(238, 168, 220);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,31 +14,31 @@ body{
 }
 
 .container{
-    background-color: rgb(22, 87, 145);
+    background-color: rgb(211, 21, 154);
     border-radius: 8px;
     padding: 20px;
-    box-shadow: 04px 8px rgba(0,0,0,1);
+    box-shadow: 04px 8px rgb(0, 0, 0);
     width: 300px;
 }
 
 h1{
     text-align: center;
     margin-bottom: 20px;
-    color: rgb(9, 48, 82);
+    color: rgb(0, 0, 0);
 }
 
 .label{ 
     margin-bottom: 8px;
     display: block;
     font-size: 14px;
-    color: #555;
+    color: #000000;
 }
 
 .input{
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid#faa0d2;
+    border: 1px solid#ccc;
     border-radius: 4px;
     font-size: 14px;
 }
@@ -46,8 +46,8 @@ h1{
 .botao{ 
     width: 100%;
     padding: 10px;
-    background-color: #000000;
-    color: aliceblue;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
@@ -69,5 +69,4 @@ h1{
 .reprovado{
     color: #fa0d0d;
 }
-
 
